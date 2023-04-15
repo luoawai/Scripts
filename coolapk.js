@@ -1,5 +1,3 @@
-[rewrite_local]
-
 # > 酷安_推广广告@ddgksf2013
 ^https?:\/\/api.coolapk.com\/v6\/dataList url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
 # > 酷安_首页广告@ddgksf2013
